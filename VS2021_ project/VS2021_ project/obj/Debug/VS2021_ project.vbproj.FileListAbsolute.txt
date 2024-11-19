@@ -1,0 +1,132 @@
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Sem1_Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\Project\IT3711(backup)\new\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\su\Desktop\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\VS2021_ project3\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\su\Desktop\Project\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\22-11-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\dwcye\Downloads\新增資料夾 (10)\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\Desktop\3-12-2021-NEW\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe.config
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.pdb
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\bin\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Form1.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021__project.Resources.resources
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.exe
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.xml
+C:\Users\user\OneDrive - Vocational Training Council - Student\IT3711\Project\Final_version\VS2021_ project\VS2021_ project\obj\Debug\VS2021_ project.pdb
